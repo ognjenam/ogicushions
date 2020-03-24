@@ -1,0 +1,225 @@
+[
+  {
+    "id" : 1,
+    "categoryId" : 3,
+    "name" : "Accent Zip Cushion",
+    "colour" : "Mossy Green",
+    "sale" : true,
+    "price" : 45.75,
+    "information" : "This cushion reminds us of the beauty of nature with its moss green hue and faded details on raw-like textured cotton canvas.",
+    "image" : {
+      "src" : "images/cushions/accentZip.jpg",
+      "alt" : "Accent Zip Cushion"
+    }
+  },
+
+  {
+    "id" : 2,
+    "categoryId" : 3,
+    "name" : "Bird in flight Cushion ",
+    "colour" : "Assorted",
+    "sale" : true,
+    "price" : 42.99,
+    "information" : "A unique, head-turning decorative touch featuring elegant embroidered blue birds and a fun pastel tassel trim!",
+    "image" : {
+      "src" : "images/cushions/birdInFlight.jpg",
+      "alt" : "Bird in flight Cushion"
+    }
+  },
+
+  {
+    "id" : 3,
+    "categoryId" : 3,
+    "name" : "But first coffee Cushion",
+    "colour" : "Black",
+    "sale" : false,
+    "price" : 40.35,
+    "information" : "The perfect decorative piece for coffee lovers with a chic and playful But first, coffee print in black and cream.",
+    "image" : {
+      "src" : "images/cushions/butFirstCoffee.jpg",
+      "alt" : "But first coffee Cushion"
+    }
+  },
+
+  {
+    "id" : 4,
+    "categoryId" : 3,
+    "name" : "Chenille embroidery Cushion",
+    "colour" : "Dusky Pink",
+    "sale" : false,
+    "price" : 30.35,
+    "information" : "The invitingly soft feel and trendy natural aesthetic of 100% cotton, accented with geometric details in delicate chenille.",
+    "image" : {
+      "src" : "images/cushions/chenilleEmbroidery.jpg",
+      "alt" : "Chenille embroidery Cushion"
+    }
+  },
+
+  {
+    "id" : 5,
+    "categoryId" : 3,
+    "name" : "Dévoré velvet Cushion",
+    "colour" : "Peach",
+    "sale" : false,
+    "price" : 50.75,
+    "information" : "Velvet adds a rich and opulent touch to any decor! This pastel pink piece is accented with white in an irregular-like texture.",
+    "image" : {
+      "src" : "images/cushions/devoreVelvet.jpg",
+      "alt" : "Dévoré velvet Cushion"
+    }
+  },
+
+  {
+    "id" : 6,
+    "categoryId" : 3,
+    "name" : "Marled knit Cushion",
+    "colour" : "Medium Yellow",
+    "sale" : true,
+    "price" : 35.45,
+    "information" : "Fashionable decorative embossed texture, warm knotted knit with a faded two-tone worn look.",
+    "image" : {
+      "src" : "images/cushions/marledKnit.jpg",
+      "alt" : "Marled knit Cushion"
+    }
+  },
+
+  {
+    "id" : 7,
+    "categoryId" : 1,
+    "name" : "Apple Butter Bed Linen",
+    "colour" : "Apple Butter",
+    "sale" : false,
+    "price" : 85.45,
+    "information" : "Crafted from a light and breathable linen, Airo is designed to be breathable in summer and warm in winter.",
+    "image" : {
+      "src" : "images/bedLinen/airoAppleButter.jpg",
+      "alt" : "Apple Butter Bed Linen"
+    }
+  },
+
+  {
+    "id" : 8,
+    "categoryId" : 1,
+    "name" : "Airo Brick Bed Linen",
+    "colour" : "Brick",
+    "sale" : false,
+    "price" : 85.45,
+    "information" : "Woven from a washed cotton, Stonewash has a relaxed and textured finish.",
+    "image" : {
+      "src" : "images/bedLinen/airoBrick.jpg",
+      "alt" : "Airo Brick Bed Linen"
+    }
+  },
+
+  {
+    "id" : 9,
+    "categoryId" : 1,
+    "name" : "Stonewash Navy Bed Linen",
+    "colour" : "Navy",
+    "sale" : true,
+    "price" : 70.95,
+    "information" : "Made in 100% cotton - a natural and durable material that becomes softer with every wash.",
+    "image" : {
+      "src" : "images/bedLinen/stonewashNavy.jpg",
+      "alt" : "Stonewash Navy Bed Linen"
+    }
+  },
+
+  {
+    "id" : 10,
+    "categoryId" : 2,
+    "name" : "Kobn Clay Towel",
+    "colour" : "Clay",
+    "sale" : false,
+    "price" : 69.95,
+    "information" : "Inspired by the muted colours of Danish culture and produced with the highest quality.",
+    "image" : {
+      "src" : "images/towels/kobnClay.jpg",
+      "alt" : "Kobn Clay Towel"
+    }
+  },
+
+  {
+    "id" : 11,
+    "categoryId" : 2,
+    "name" : "Kobn Rust Towel",
+    "colour" : "Rust",
+    "sale" : true,
+    "price" : 29.55,
+    "information" : "Sumptuously soft, these towels are a pleasure to use throughout the year, they also air dry beautifully.",
+    "image" : {
+      "src" : "images/towels/kobnRust.jpg",
+      "alt" : "Kobn Rust Towel"
+    }
+  },
+
+  {
+    "id" : 12,
+    "categoryId" : 2,
+    "name" : "Kobn Sand Towel",
+    "colour" : "Sand",
+    "sale" : true,
+    "price" : 29.55,
+    "information" : "The feel is modern and uncluttered; practical products that you’ll love to live with.",
+    "image" : {
+      "src" : "images/towels/kobnSand.jpg",
+      "alt" : "Kobn Sand Towel"
+    }
+  },
+
+  {
+    "id" : 13,
+    "categoryId" : 4,
+    "name" : "John Lewis & Partners Kastrup Rug",
+    "colour" : "Scandi",
+    "sale" : false,
+    "price" : 60.55,
+    "information" : "Hand-tufted and hand-looped, our 100% wool Kastrup Rug is offered in a unique, check design and features contrasting colours.",
+    "image" : {
+      "src" : "images/rugs/johnLewisAndPartnersKastrup.jpg",
+      "alt" : "John Lewis & Partners Kastrup Rug"
+    }
+  },
+
+  {
+    "id" : 14,
+    "categoryId" : 4,
+    "name" : "John Lewis & Partners Zag Berber Rug",
+    "colour" : "Black",
+    "sale" : false,
+    "price" : 55.55,
+    "information" : "Traditionally inspired, this indulgent pure wool rug was hand-knotted, making it the perfect way, and offer warmth.",
+    "image" : {
+      "src" : "images/rugs/johnLewisAndPartnersZagBerber.jpg",
+      "alt" : "John Lewis & Partners Zag Berber Rug"
+    }
+  },
+
+  {
+    "id" : 15,
+    "categoryId" : 4,
+    "name" : "John Lewis & Partners Zag Berber Rug",
+    "colour" : "Yellow",
+    "sale" : false,
+    "price" : 55.55,
+    "information" : "A striking diamond pattern runs and contrasts throughout and the textured finish feels great underfoot.",
+    "image" : {
+      "src" : "images/rugs/johnLewisAndPartnersZagBerberYellow.jpg",
+      "alt" : "John Lewis & Partners Zag Berber Rug"
+    }
+  },
+  {
+    "id" : 16,
+    "categoryId" : 4,
+    "name" : "John Lewis & Partners Belsay Rug",
+    "colour" : "Brick",
+    "sale" : false,
+    "price" : 65.55,
+    "information" : "Hand tufted, this rug has a luxurious feel and feels soft underfoot making it perfect for relaxing after work.",
+    "image" : {
+      "src" : "images/rugs/johnLewisAndPartnersBrick.jpg",
+      "alt" : "John Lewis & Partners Belsay Rug"
+    }
+  }
+
+]
